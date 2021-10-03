@@ -1,5 +1,5 @@
 # Face Mask Detector with Python, OpenCV and YOLOv3/4
- A custom trained face mask detector based on YOLO v3/4 network built with Darknet and OpenCV.
+ A custom trained face mask detector based on YOLO v3/4 network built with Darknet, Python and OpenCV.
  This repository consists of a notebook with detailed steps in training a custom mask detector model with darknet, as well as an inference python script to run detection of images and video files with the trained model with OpenCV.
  
 ![alt text](https://github.com/zhengkang128/face_mask_detector/blob/main/etc/Screenshot%20from%202021-10-03%2012-41-35.png)

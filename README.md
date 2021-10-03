@@ -81,5 +81,14 @@ Run the code below to perform yolov4-mask inference on all images and videos in 
 
 ```python3 run_inference --model yolov4 --confidence 0.1 --threshold 0.2 --size_img 416 --size_vid 768```
 
+## Inference Output (yolov4-mask)
+![alt text](https://github.com/zhengkang128/face_mask_detector/blob/main/etc/test-image1.jpg)
+![alt text](https://github.com/zhengkang128/face_mask_detector/blob/main/etc/test-image2.jpg)
+![alt text](https://github.com/zhengkang128/face_mask_detector/blob/main/etc/test-image3.jpg)
+![alt text](https://github.com/zhengkang128/face_mask_detector/blob/main/etc/test-image4.jpg)
+
+
 ## Training Instruction
 Refer to ```train.ipynb``` for detailed instructions to train yolov3/4 mask detector 
+
+

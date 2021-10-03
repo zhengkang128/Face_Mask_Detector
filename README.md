@@ -1,4 +1,6 @@
 # Face Mask Detector with Python, OpenCV and YOLOv3/4
+ A custom trained face mask detector based on YOLO v3/4 network.
+ 
 ![alt text](https://github.com/zhengkang128/face_mask_detector/blob/main/etc/Screenshot%20from%202021-10-03%2012-41-35.png)
 ## Project Structure
 

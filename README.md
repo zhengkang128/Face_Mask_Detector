@@ -1,4 +1,4 @@
-# face_mask_detector
+# Face Mask Detector with Python, OpenCV and YOLOv3/4
 ![alt text](https://github.com/zhengkang128/face_mask_detector/blob/main/etc/Screenshot%20from%202021-10-03%2012-41-35.png)
 ## Project Structure
 

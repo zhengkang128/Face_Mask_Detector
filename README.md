@@ -1,6 +1,6 @@
 # face_mask_detector
 
-##Project Structure
+## Project Structure
 ```
 face_mask_detector
 ├── darknet

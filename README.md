@@ -58,3 +58,6 @@ rm files.zip
 ```
 pip3 install -r requirements.txt
 ```
+
+## Training Instruction
+Refer to ```train.ipynb``` for detailed instructions to train yolov3/4 mask detector 

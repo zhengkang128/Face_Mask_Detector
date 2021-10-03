@@ -87,6 +87,10 @@ Run the code below to perform yolov4-mask inference on all images and videos in 
 
 ```python3 run_inference --model yolov4 --confidence 0.1 --threshold 0.2 --size_img 416 --size_vid 768```
 
+## Future Plans
+1. Real-Time Inference for mask detection
+2. Integrate tracking algorithm for counting objects (DeepSORT)
+
 ## Inference Output (yolov4-mask)
 ![alt text](https://github.com/zhengkang128/face_mask_detector/blob/main/etc/test-image1.jpg)
 ![alt text](https://github.com/zhengkang128/face_mask_detector/blob/main/etc/test-image2.jpg)

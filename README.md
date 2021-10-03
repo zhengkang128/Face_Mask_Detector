@@ -1,6 +1,7 @@
 # face_mask_detector
 
 ##Project Structure
+```
 face_mask_detector
 ├── darknet
 │   └── <darknet_source_code>
@@ -43,7 +44,7 @@ face_mask_detector
 │       └── test-video2.mp4
 ├── run_inference.py
 └── train.ipynb
-
+```
 
 ## Installation
 ```

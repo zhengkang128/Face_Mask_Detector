@@ -1,6 +1,19 @@
 # face_mask_detector
 
 ## Project Structure
+
+1. The ```train.ipynb``` notebook consists of detailed steps to train the models.
+2. ```darknet``` directory consists of the source code to train our yolo models. This folder will be built in section 2
+3. ```data``` folder consists of all of our dataset of both images and annotations (.txt files). Each txt files corresponding to the image share the same name (different ext)
+4. ```model_configs``` consists of two folders, ```yolov3-mask``` and ```yolov4-mask```, which contains all configurations of the yolov3/4 models for training and inference. Weights are stored in the backup folder.
+
+For inferencing,
+
+4. ```run_inference.py``` - the python script to run inference on all input images and videos in input directory
+5. ```input``` folder consists of all the images and video files to run inference on
+6. ```output``` folder consists of all outputs that are produced by ```run_inference.py```. They are seperated into 2 folders, ```yolov3``` and ```yolov4```, depending on which model is used for inference.
+
+
 ```
 face_mask_detector
 ├── darknet

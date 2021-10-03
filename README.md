@@ -71,6 +71,11 @@ rm files.zip
 ```
 pip3 install -r requirements.txt
 ```
+## Run Inference
+Run yolov3-mask inference on all images and videos in ```input``` folder. Output will be stored in ```output/yolov3```
+```python3 run_inference --model yolov3 --confidence 0.1 --threshold 0.2 --size_img 416 --size_vid 768```
+Run yolov4-mask inference on all images and videos in ```input``` folder. Output will be stored in ```output/yolov4```
+```python3 run_inference --model yolov4 --confidence 0.1 --threshold 0.2 --size_img 416 --size_vid 768```
 
 ## Training Instruction
 Refer to ```train.ipynb``` for detailed instructions to train yolov3/4 mask detector 

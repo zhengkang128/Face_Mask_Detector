@@ -71,6 +71,9 @@ rm files.zip
 ```
 pip3 install -r requirements.txt
 ```
+## Training Instruction
+Refer to ```train.ipynb``` for detailed instructions to train yolov3/4 mask detector 
+
 ## Run Inference
 
 Run the code below to perform yolov3-mask inference on all images and videos in ```input``` folder. Output will be stored in ```output/yolov3```
@@ -88,7 +91,6 @@ Run the code below to perform yolov4-mask inference on all images and videos in 
 ![alt text](https://github.com/zhengkang128/face_mask_detector/blob/main/etc/test-image4.jpg)
 
 
-## Training Instruction
-Refer to ```train.ipynb``` for detailed instructions to train yolov3/4 mask detector 
+
 
 

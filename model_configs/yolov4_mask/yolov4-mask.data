@@ -1,0 +1,6 @@
+classes= 2
+train  = ./model_configs/yolov4_mask/data_train.txt
+valid = ./model_configs/yolov4_mask/data_val.txt
+names = ./model_configs/yolov4_mask/class.names
+backup = ./model_configs/yolov4_mask/backup
+

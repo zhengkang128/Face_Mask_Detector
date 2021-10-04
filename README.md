@@ -63,9 +63,15 @@ face_mask_detector
 ```
 
 ## Installation
+### Clone Repo
 ```
 git clone https://github.com/zhengkang128/face_mask_detector.git
 ```
+### Download weights
+```yolov3-mask-train_best.weights```: https://drive.google.com/file/d/1udKe-qGq1MF2mIuglyIk9MMRpMdFsxs7/view?usp=sharing 
+```yolov4-mask-train_best.weights```: https://drive.google.com/file/d/1VsIB3OkfRoj-Brag568Hm6hLrOZZPmUK/view?usp=sharing
+Put yolov3-mask-train_best.weights in model_configs/yolov3_mask/backup directory
+Put yolov3-mask-train_best.weights in model_configs/yolov4_mask/backup directory
 
 ## Install dependencies
 ```

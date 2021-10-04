@@ -68,7 +68,7 @@ face_mask_detector
 git clone https://github.com/zhengkang128/face_mask_detector.git
 ```
 ### Download pre-trained weights for inferencing
-```yolov3-mask-train_best.weights```: https://drive.google.com/file/d/1udKe-qGq1MF2mIuglyIk9MMRpMdFsxs7/view?usp=sharing 
+```yolov3-mask-train_best.weights```: https://drive.google.com/file/d/1V8VtoZe9AVRiiwBSWEbYiq3eTdLoZJoV/view?usp=sharing
 
 ```yolov4-mask-train_best.weights```: https://drive.google.com/file/d/1VsIB3OkfRoj-Brag568Hm6hLrOZZPmUK/view?usp=sharing
 
